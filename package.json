@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page of natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arhamch007/Natours.git"
+  },
+  "author": "Arham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arhamch007/Natours/issues"
+  },
+  "homepage": "https://github.com/Arhamch007/Natours#readme"
+}
